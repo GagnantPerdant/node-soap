@@ -1,6 +1,6 @@
 {
   "name": "soap-rawmessage",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "description": "A minimal node SOAP client, fork which adds ability to send raw xml",
   "engines": {
     "node": ">=0.10.0"
