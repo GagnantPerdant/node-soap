@@ -1,5 +1,5 @@
 {
-  "name": "soap",
+  "name": "soap-rawmessage",
   "version": "0.16.1",
   "description": "A minimal node SOAP client, fork which adds ability to send raw xml",
   "engines": {
